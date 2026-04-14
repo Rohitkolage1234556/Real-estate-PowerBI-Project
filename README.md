@@ -121,4 +121,4 @@ This project demonstrates the ability to perform end-to-end data analysis, from 
 ## 🙋‍♂️ Author
 
 **Rohit Kolage**
-Aspiring Data Analyst | Data Engineer
+rohitkolage091@gmail.com | https://www.linkedin.com/in/rohit-kolage-01510226a/
