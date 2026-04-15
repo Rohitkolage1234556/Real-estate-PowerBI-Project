@@ -66,6 +66,13 @@ The project is designed using a **Star Schema Data Model**, which ensures effici
 * Conversion Rate: 33%
 
 ---
+ 📸 Dashboard Preview
+🔹 Property Performance Dashboard
+🔹 Agent Performance Dashboard
+🔹 Customer Insights Dashboard
+🔹 Executive Overview Dashboard
+
+---
 
 ## 📈 Key Insights
 
