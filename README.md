@@ -95,11 +95,6 @@ The project is designed using a **Star Schema Data Model**, which ensures effici
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshots of your dashboards here)
-
----
 
 ## 📌 Business Problem Solved
 
@@ -121,4 +116,7 @@ This project demonstrates the ability to perform end-to-end data analysis, from 
 ## 🙋‍♂️ Author
 
 **Rohit Kolage**
-rohitkolage091@gmail.com | https://www.linkedin.com/in/rohit-kolage-01510226a/
+
+Email : rohitkolage091@gmail.com 
+
+Linkdin : https://www.linkedin.com/in/rohit-kolage-01510226a/
